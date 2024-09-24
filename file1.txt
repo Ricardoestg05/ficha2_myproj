@@ -6,9 +6,8 @@ Alterações efetuadas no branch Nova Feature
 
 
 
-
-
-
-
-
 Alteração no branch NOVAFEATURE
+
+
+Alteração no branch MASTER
+
